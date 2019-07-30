@@ -19,11 +19,4 @@ class CreateCostumes < ActiveRecord::Migration
       t.timestamps
     end
   end
-
-
-
-
-
-
-
 end
